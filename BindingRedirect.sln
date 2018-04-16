@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingRedirect.Parent", "BindingRedirect.Parent\BindingRedirect.Parent.csproj", "{68029786-3D38-4DB9-A131-E00E22A3588F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingRedirect.Child", "BindingRedirect.Child\BindingRedirect.Child.csproj", "{C4D00A60-FD06-45CE-A55C-41C5C694EEBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{68029786-3D38-4DB9-A131-E00E22A3588F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68029786-3D38-4DB9-A131-E00E22A3588F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68029786-3D38-4DB9-A131-E00E22A3588F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D00A60-FD06-45CE-A55C-41C5C694EEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D00A60-FD06-45CE-A55C-41C5C694EEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D00A60-FD06-45CE-A55C-41C5C694EEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D00A60-FD06-45CE-A55C-41C5C694EEBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
